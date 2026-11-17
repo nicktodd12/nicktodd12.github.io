@@ -176,16 +176,6 @@
 }
 
 @media (max-width: 560px) {
-  .beta-page .nav-shell {
-    flex-wrap: wrap;
-    padding-block: 0.8rem;
-    gap: 0.5rem;
-  }
-
-  .beta-page nav {
-    flex-wrap: wrap;
-  }
-
   .beta-invite .button-link,
   .beta-step .button-link {
     width: 100%;
